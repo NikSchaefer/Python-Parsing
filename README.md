@@ -1,4 +1,7 @@
 # Python-Parse-Api-List
+
+String Manipulation Script to save time
+
 Taken data from A list Of Public Api in an md format taken into a json Object
 
 Data from [here](https://github.com/NikSchaefer/public-apis)
