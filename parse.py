@@ -9,7 +9,7 @@ def delete_lines(lines):  # returns array of lines with not essential lines remo
     return_array = []
     for i in range(len(lines)):
         if not ("|---|" in lines[i] or "API | " in lines[i] or "**[" in lines[i] or lines[i] == "\n"):
-            return_array.append(purge(lines[i].replace("\n", "")))
+            return_array.append(lines[i].replace("\n", ""))
     return return_array
 
 
@@ -31,11 +31,11 @@ def to_categories(array):
             name_split = split[1].split("]")
             link = name_split[1].replace("(", "")
             to_add = {
-                "name": name_split[0].replace("[", ""),
-                "link": link.replace(")", ""),
+                "name": purge(name_split[0].replace("[", "")),
+                "link": purge(link.replace(")", "")),
                 "description": split[2],
-                "Auth": split[3],
-                'HTTPS': split[4],
+                "Auth": purge(split[3]),
+                'HTTPS': purge(split[4]),
             }
             content.append(to_add)
     return out[1:]
