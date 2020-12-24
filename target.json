@@ -3,6 +3,7 @@
         "name": " Animals",
         "content": [
             {
+                "type": " Animals",
                 "name": "CatFacts",
                 "link": "https://alexwohlbruck.github.io/cat-facts/",
                 "description": " Daily cat facts ",
@@ -10,13 +11,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Animals",
                 "name": "Cats",
                 "link": "https://docs.thecatapi.com/",
                 "description": " Pictures of cats from Tumblr ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Animals",
                 "name": "Dogs",
                 "link": "https://dog.ceo/dog-api/",
                 "description": " Based on the Stanford Dogs Dataset ",
@@ -24,6 +27,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Animals",
                 "name": "HTTPCat",
                 "link": "https://http.cat/",
                 "description": " Cat for every HTTP Status ",
@@ -31,13 +35,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Animals",
                 "name": "IUCN",
                 "link": "http://apiv3.iucnredlist.org/api/v3/docs",
                 "description": " IUCN Red List of Threatened Species ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Animals",
                 "name": "Movebank",
                 "link": "https://github.com/movebank/movebank-api-doc",
                 "description": " Movement and Migration data of animals ",
@@ -45,6 +51,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Animals",
                 "name": "PlaceGOAT",
                 "link": "https://placegoat.com/",
                 "description": " Placeholder goat images ",
@@ -52,6 +59,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Animals",
                 "name": "RandomCat",
                 "link": "https://aws.random.cat/meow",
                 "description": " Random pictures of cats ",
@@ -59,6 +67,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Animals",
                 "name": "RandomDog",
                 "link": "https://random.dog/woof.json",
                 "description": " Random pictures of dogs ",
@@ -66,6 +75,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Animals",
                 "name": "RandomFox",
                 "link": "https://randomfox.ca/floof/",
                 "description": " Random pictures of foxes ",
@@ -73,13 +83,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Animals",
                 "name": "RequestKittens",
                 "link": "http://joshwcomeau.github.io/RequestKittensDocs/public/",
                 "description": " Provides a way to return various cat images ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Animals",
                 "name": "RescueGroups",
                 "link": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home",
                 "description": " Adoption ",
@@ -87,6 +99,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Animals",
                 "name": "Shibe.Online",
                 "link": "http://shibe.online/",
                 "description": " Random pictures of Shibu Inu, cats or birds ",
@@ -99,52 +112,59 @@
         "name": " Anti-Malware",
         "content": [
             {
+                "type": " Anti-Malware",
                 "name": "AbuseIPDB",
                 "link": "https://docs.abuseipdb.com/",
                 "description": " IP/domain/URL reputation ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Anti-Malware",
                 "name": "AlienVaultOpenThreatExchange(OTX)",
                 "link": "https://otx.alienvault.com/api",
                 "description": " IP/domain/URL reputation ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Anti-Malware",
                 "name": "GoogleSafeBrowsing",
                 "link": "https://developers.google.com/safe-browsing/",
                 "description": " Google Link/Domain Flagging ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Anti-Malware",
                 "name": "Metacert",
                 "link": "https://metacert.com/",
                 "description": " Metacert Link Flagging ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Anti-Malware",
                 "name": "URLScan.io",
                 "link": "https://urlscan.io/about-api/",
                 "description": " Scan and Analyse URLs ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Anti-Malware",
                 "name": "VirusTotal",
                 "link": "https://www.virustotal.com/en/documentation/public-api/",
                 "description": " VirusTotal File/URL Analysis ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Anti-Malware",
                 "name": "WebOfTrust(WOT)",
                 "link": "https://support.mywot.com/hc/en-us/articles/360024398673-3-Using-the-API",
                 "description": " Website reputation ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -153,59 +173,67 @@
         "name": " Art & Design",
         "content": [
             {
+                "type": " Art & Design",
                 "name": "Behance",
                 "link": "https://www.behance.net/dev",
                 "description": " Design ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Art & Design",
                 "name": "CooperHewitt",
                 "link": "https://collection.cooperhewitt.org/api",
                 "description": " Smithsonian Design Museum ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Art & Design",
                 "name": "Dribbble",
                 "link": "http://developer.dribbble.com/v2/",
                 "description": " Design ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "No"
             },
             {
+                "type": " Art & Design",
                 "name": "HarvardArtMuseums",
                 "link": "https://github.com/harvardartmuseums/api-docs",
                 "description": " Art ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Art & Design",
                 "name": "Iconfinder",
                 "link": "https://developer.iconfinder.com",
                 "description": " Icons ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Art & Design",
                 "name": "Icons8",
                 "link": "http://docs.icons8.apiary.io/#reference/0/meta",
                 "description": " Icons ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Art & Design",
                 "name": "NounProject",
                 "link": "http://api.thenounproject.com/index.html",
                 "description": " Icons ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "No"
             },
             {
+                "type": " Art & Design",
                 "name": "Rijksmuseum",
                 "link": "https://www.rijksmuseum.nl/en/api",
                 "description": " Art ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -214,13 +242,15 @@
         "name": " Books",
         "content": [
             {
+                "type": " Books",
                 "name": "BhagavadGita",
                 "link": "https://bhagavadgita.io/api",
                 "description": " Bhagavad Gita text ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Books",
                 "name": "BritishNationalBibliography",
                 "link": "http://bnb.data.bl.uk/",
                 "description": " Books ",
@@ -228,20 +258,23 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Books",
                 "name": "Goodreads",
                 "link": "https://www.goodreads.com/api",
                 "description": " Books ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Books",
                 "name": "GoogleBooks",
                 "link": "https://developers.google.com/books/",
                 "description": " Books ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Books",
                 "name": "LibGen",
                 "link": "https://garbage.world/posts/libgen/",
                 "description": " Library Genesis search engine ",
@@ -249,6 +282,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Books",
                 "name": "OpenLibrary",
                 "link": "https://openlibrary.org/developers/api",
                 "description": " Books, book covers and related data ",
@@ -256,6 +290,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Books",
                 "name": "PenguinPublishing",
                 "link": "http://www.penguinrandomhouse.biz/webservices/rest/",
                 "description": " Books, book covers and related data ",
@@ -263,6 +298,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Books",
                 "name": "RigVeda",
                 "link": "https://aninditabasu.github.io/indica/html/rv.html",
                 "description": " Gods and poets, their categories, and the verse meters, with the mandal and sukta number ",
@@ -270,6 +306,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Books",
                 "name": "VedicSociety",
                 "link": "https://aninditabasu.github.io/indica/html/vs.html",
                 "description": " Descriptions of all nouns (names, places, animals, things) from vedic literature ",
@@ -282,20 +319,23 @@
         "name": " Business",
         "content": [
             {
+                "type": " Business",
                 "name": "CharitySearch",
                 "link": "http://charityapi.orghunter.com/",
                 "description": " Non-profit charity data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Business",
                 "name": "ClearbitLogo",
                 "link": "https://clearbit.com/docs#logo-api",
                 "description": " Search for company logos and embed them in your projects ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Business",
                 "name": "Domainsdb.info",
                 "link": "https://domainsdb.info/",
                 "description": " Registered Domain Names Search ",
@@ -303,41 +343,47 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Business",
                 "name": "Freelancer",
                 "link": "https://developers.freelancer.com",
                 "description": " Hire freelancers to get work done ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Business",
                 "name": "Gmail",
                 "link": "https://developers.google.com/gmail/api/",
                 "description": " Flexible, RESTful access to the user's inbox ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Business",
                 "name": "GoogleAnalytics",
                 "link": "https://developers.google.com/analytics/",
                 "description": " Collect, configure and analyze your data to reach the right audience ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Business",
                 "name": "MailboxValidator",
                 "link": "https://www.mailboxvalidator.com/api-single-validation",
                 "description": " Validate email address to improve deliverability ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Business",
                 "name": "mailgun",
                 "link": "https://www.mailgun.com/",
                 "description": " Email Service ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Business",
                 "name": "markerapi",
                 "link": "http://www.markerapi.com/",
                 "description": " Trademark Search ",
@@ -345,6 +391,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Business",
                 "name": "Ticksel",
                 "link": "https://ticksel.com",
                 "description": " Friendly website analytics made for humans ",
@@ -352,10 +399,11 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Business",
                 "name": "Trello",
                 "link": "https://developers.trello.com/",
                 "description": " Boards, lists and cards to help you organize and prioritize your projects ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             }
         ]
@@ -364,13 +412,15 @@
         "name": " Calendar",
         "content": [
             {
+                "type": " Calendar",
                 "name": "CalendarIndex",
                 "link": "https://www.calendarindex.com/",
                 "description": " Worldwide Holidays and Working Days ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Calendar",
                 "name": "ChurchCalendar",
                 "link": "http://calapi.inadiutorium.cz/",
                 "description": " Catholic liturgical calendar ",
@@ -378,6 +428,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Calendar",
                 "name": "CzechNamedaysCalendar",
                 "link": "https://svatky.adresa.info",
                 "description": " Lookup for a name and returns nameday date ",
@@ -385,13 +436,15 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Calendar",
                 "name": "GoogleCalendar",
                 "link": "https://developers.google.com/google-apps/calendar/",
                 "description": " Display, create and modify Google calendar events ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Calendar",
                 "name": "HebrewCalendar",
                 "link": "https://www.hebcal.com/home/developer-apis",
                 "description": " Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc ",
@@ -399,13 +452,15 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Calendar",
                 "name": "Holidays",
                 "link": "https://holidayapi.com/",
                 "description": " Historical data regarding holidays ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Calendar",
                 "name": "LectServe",
                 "link": "http://www.lectserve.com",
                 "description": " Protestant liturgical calendar ",
@@ -413,6 +468,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Calendar",
                 "name": "Nager.Date",
                 "link": "https://date.nager.at",
                 "description": " Public holidays for more than 90 countries ",
@@ -420,6 +476,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Calendar",
                 "name": "NamedaysCalendar",
                 "link": "https://api.abalin.net/",
                 "description": " Provides namedays for multiple countries ",
@@ -427,6 +484,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Calendar",
                 "name": "Non-WorkingDays",
                 "link": "https://github.com/gadael/icsdb",
                 "description": " Database of ICS files for non working days ",
@@ -434,6 +492,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Calendar",
                 "name": "RussianCalendar",
                 "link": "https://github.com/egno/work-calendar",
                 "description": " Check if a date is a Russian holiday or not ",
@@ -446,45 +505,51 @@
         "name": " Cloud Storage & File Sharing",
         "content": [
             {
+                "type": " Cloud Storage & File Sharing",
                 "name": "Box",
                 "link": "https://developer.box.com/",
                 "description": " File Sharing and Storage ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cloud Storage & File Sharing",
                 "name": "Dropbox",
                 "link": "https://www.dropbox.com/developers",
                 "description": " File Sharing and Storage ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cloud Storage & File Sharing",
                 "name": "GoogleDrive",
                 "link": "https://developers.google.com/drive/",
                 "description": " File Sharing and Storage ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cloud Storage & File Sharing",
                 "name": "OneDrive",
                 "link": "https://dev.onedrive.com/",
                 "description": " File Sharing and Storage ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cloud Storage & File Sharing",
                 "name": "Pastebin",
                 "link": "https://pastebin.com/api/",
                 "description": " Plain Text Storage ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cloud Storage & File Sharing",
                 "name": "Temporal",
                 "link": "https://gateway.temporal.cloud/ipns/docs.api.temporal.cloud",
                 "description": " IPFS based file storage and sharing with optional IPNS naming ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -493,24 +558,27 @@
         "name": " Continuous Integration",
         "content": [
             {
+                "type": " Continuous Integration",
                 "name": "CircleCI",
                 "link": "https://circleci.com/docs/api/v1-reference/",
                 "description": " Automate the software development process using continuous integration and continuous delivery ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Continuous Integration",
                 "name": "Codeship",
                 "link": "https://apidocs.codeship.com/",
                 "description": " Codeship is a Continuous Integration Platform in the cloud ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Continuous Integration",
                 "name": "TravisCI",
                 "link": "https://docs.travis-ci.com/api/",
                 "description": " Sync your GitHub projects with Travis CI to test your code in minutes ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -519,20 +587,23 @@
         "name": " Cryptocurrency",
         "content": [
             {
+                "type": " Cryptocurrency",
                 "name": "Binance",
                 "link": "https://github.com/binance-exchange/binance-official-api-docs",
                 "description": " Exchange for Trading Cryptocurrencies based in China ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "BitcoinAverage",
                 "link": "https://apiv2.bitcoinaverage.com/",
                 "description": " Digital Asset Price Data for the blockchain industry ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "BitcoinCharts",
                 "link": "https://bitcoincharts.com/about/exchanges/",
                 "description": " Financial and Technical Data related to the Bitcoin Network ",
@@ -540,34 +611,39 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Bitfinex",
                 "link": "https://docs.bitfinex.com/docs",
                 "description": " Cryptocurrency Trading Platform ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Bitmex",
                 "link": "https://www.bitmex.com/app/apiOverview",
                 "description": " Real-Time Cryptocurrency derivatives trading platform based in Hong Kong ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Bittrex",
                 "link": "https://bittrex.com/Home/Api",
                 "description": " Next Generation Crypto Trading Platform ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Block",
                 "link": "https://www.block.io/docs/basic",
                 "description": " Bitcoin Payment, Wallet & Transaction Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Blockchain",
                 "link": "https://www.blockchain.info/api",
                 "description": " Bitcoin Payment, Wallet & Transaction Data ",
@@ -575,27 +651,31 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "CoinAPI",
                 "link": "https://docs.coinapi.io/",
                 "description": " All Currency Exchanges integrate under a single api ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Coinbase",
                 "link": "https://developers.coinbase.com",
                 "description": " Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "CoinbasePro",
                 "link": "https://docs.pro.coinbase.com/#api",
                 "description": " Cryptocurrency Trading Platform ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "CoinDesk",
                 "link": "http://www.coindesk.com/api/",
                 "description": " Bitcoin Price Index ",
@@ -603,6 +683,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "CoinGecko",
                 "link": "http://www.coingecko.com/api",
                 "description": " Cryptocurrency Price, Market, and Developer/Social Data ",
@@ -610,27 +691,31 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Coinigy",
                 "link": "https://coinigy.docs.apiary.io",
                 "description": " Interacting with Coinigy Accounts and Exchange Directly ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "CoinLayer",
                 "link": "https://coinlayer.com",
                 "description": " Real-time Crypto Currency Exchange Rates ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Coinlib",
                 "link": "https://coinlib.io/apidocs",
                 "description": " Crypto Currency Prices ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Coinlore",
                 "link": "https://www.coinlore.com/cryptocurrency-data-api",
                 "description": " Cryptocurrencies prices, volume and more ",
@@ -638,13 +723,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "CoinMarketCap",
                 "link": "https://coinmarketcap.com/api/",
                 "description": " Cryptocurrencies Prices ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Coinpaprika",
                 "link": "https://api.coinpaprika.com",
                 "description": " Cryptocurrencies prices, volume and more ",
@@ -652,6 +739,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "CoinRanking",
                 "link": "https://docs.coinranking.com/",
                 "description": " Live Cryptocurrency data ",
@@ -659,6 +747,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "CryptoCompare",
                 "link": "https://www.cryptocompare.com/api#",
                 "description": " Cryptocurrencies Comparison ",
@@ -666,6 +755,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Cryptonator",
                 "link": "https://www.cryptonator.com/api/",
                 "description": " Cryptocurrencies Exchange Rates ",
@@ -673,6 +763,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Gemini",
                 "link": "https://docs.gemini.com/rest-api/",
                 "description": " Cryptocurrencies Exchange ",
@@ -680,13 +771,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "ICObench",
                 "link": "https://icobench.com/developers",
                 "description": " Various information on listing, ratings, stats, and more ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Livecoin",
                 "link": "https://www.livecoin.net/api",
                 "description": " Cryptocurrency Exchange ",
@@ -694,6 +787,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "MercadoBitcoin",
                 "link": "https://www.mercadobitcoin.net/api-doc/",
                 "description": " Brazilian Cryptocurrency Information ",
@@ -701,6 +795,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Nexchange",
                 "link": "https://nexchange2.docs.apiary.io/",
                 "description": " Automated cryptocurrency exchange service ",
@@ -708,17 +803,19 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "Poloniex",
                 "link": "https://poloniex.com/support/api/",
                 "description": " US based digital asset exchange ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Cryptocurrency",
                 "name": "WorldCoinIndex",
                 "link": "https://www.worldcoinindex.com/apiservice",
                 "description": " Cryptocurrencies Prices ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -727,20 +824,23 @@
         "name": " Currency Exchange",
         "content": [
             {
+                "type": " Currency Exchange",
                 "name": "1Forge",
                 "link": "https://1forge.com/forex-data-api/api-documentation",
                 "description": " Forex currency market data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Currency Exchange",
                 "name": "Currencylayer",
                 "link": "https://currencylayer.com/documentation",
                 "description": " Exchange rates and currency conversion ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Currency Exchange",
                 "name": "CzechNationalBank",
                 "link": "https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml",
                 "description": " A collection of exchange rates ",
@@ -748,6 +848,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Currency Exchange",
                 "name": "ExchangeRate-API",
                 "link": "https://www.exchangerate-api.com",
                 "description": " Free currency conversion ",
@@ -755,6 +856,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Currency Exchange",
                 "name": "Exchangeratesapi.io",
                 "link": "https://exchangeratesapi.io",
                 "description": " Exchange rates with currency conversion ",
@@ -762,13 +864,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Currency Exchange",
                 "name": "Fixer.io",
                 "link": "http://fixer.io",
                 "description": " Exchange rates and currency conversion ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Currency Exchange",
                 "name": "Frankfurter",
                 "link": "https://www.frankfurter.app/docs",
                 "description": " Exchange rates, currency conversion and time series ",
@@ -776,6 +880,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Currency Exchange",
                 "name": "ratesapi",
                 "link": "https://ratesapi.io",
                 "description": " Free exchange rates and historical rates ",
@@ -783,6 +888,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Currency Exchange",
                 "name": "VATComply.com",
                 "link": "https://www.vatcomply.com/documentation",
                 "description": " Exchange rates, geolocation and VAT number validation ",
@@ -795,27 +901,31 @@
         "name": " Data Validation",
         "content": [
             {
+                "type": " Data Validation",
                 "name": "CloudmersiveValidate",
                 "link": "https://cloudmersive.com/validate-api",
                 "description": " Validate email addresses, phone numbers, VAT numbers and domain names ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Data Validation",
                 "name": "languagelayer",
                 "link": "https://languagelayer.com",
                 "description": " Language detection ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Data Validation",
                 "name": "Lob.com",
                 "link": "https://lob.com/",
                 "description": " US Address Verification ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Data Validation",
                 "name": "mailboxlayer",
                 "link": "https://mailboxlayer.com",
                 "description": " Email address validation ",
@@ -823,6 +933,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Data Validation",
                 "name": "NumValidate",
                 "link": "https://numvalidate.com",
                 "description": " Open Source phone number validation ",
@@ -830,6 +941,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Data Validation",
                 "name": "numverify",
                 "link": "https://numverify.com",
                 "description": " Phone number validation ",
@@ -837,6 +949,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Data Validation",
                 "name": "PurgoMalum",
                 "link": "http://www.purgomalum.com",
                 "description": " Content validator against profanity & obscenity ",
@@ -844,27 +957,31 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Data Validation",
                 "name": "USAutocomplete",
                 "link": "https://smartystreets.com/docs/cloud/us-autocomplete-api",
                 "description": " Enter address data quickly with real-time address suggestions ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Data Validation",
                 "name": "USExtract",
                 "link": "https://smartystreets.com/products/apis/us-extract-api",
                 "description": " Extract postal addresses from any text including emails ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Data Validation",
                 "name": "USStreetAddress",
                 "link": "https://smartystreets.com/docs/cloud/us-street-api",
                 "description": " Validate and append data for any US postal address ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Data Validation",
                 "name": "vatlayer",
                 "link": "https://vatlayer.com",
                 "description": " VAT number validation ",
@@ -877,6 +994,7 @@
         "name": " Development",
         "content": [
             {
+                "type": " Development",
                 "name": "24PullRequests",
                 "link": "https://24pullrequests.com/api",
                 "description": " Project to promote open source collaboration during December ",
@@ -884,6 +1002,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Agify.io",
                 "link": "https://agify.io",
                 "description": " Estimates the age from a first name ",
@@ -891,13 +1010,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "ApiFlash",
                 "link": "https://apiflash.com/",
                 "description": " Chrome based screenshot API for developers ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Apility.io",
                 "link": "https://apility.io/apidocs/",
                 "description": " IP, Domains and Emails anti-abuse API blocklist ",
@@ -905,6 +1026,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "APIs.guru",
                 "link": "https://apis.guru/api-doc/",
                 "description": " Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs ",
@@ -912,13 +1034,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "BetterMeta",
                 "link": "http://bettermeta.io",
                 "description": " Return a site's meta tags in JSON format ",
-                "Auth": "X-Mashape-Key",
+                "Auth": "`X-Mashape-Key`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Bored",
                 "link": "https://www.boredapi.com/",
                 "description": " Find random activities to fight boredom ",
@@ -926,13 +1050,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Browshot",
                 "link": "https://browshot.com/api/documentation",
                 "description": " Easily make screenshots of web pages in any screen size, as any device ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "CDNJS",
                 "link": "https://api.cdnjs.com/libraries/jquery",
                 "description": " Library info on CDNJS ",
@@ -940,6 +1066,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Changelogs.md",
                 "link": "https://changelogs.md",
                 "description": " Structured changelog metadata from open source projects ",
@@ -947,6 +1074,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "CountAPI",
                 "link": "https://countapi.xyz",
                 "description": " Free and simple counting service. You can use it to track page hits and specific events ",
@@ -954,6 +1082,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "DigitalOceanStatus",
                 "link": "https://status.digitalocean.com/api",
                 "description": " Status of all DigitalOcean services ",
@@ -961,6 +1090,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "DomainDbInfo",
                 "link": "https://api.domainsdb.info/",
                 "description": " Domain name search to find all domains containing particular words/phrases/etc ",
@@ -968,6 +1098,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Genderize.io",
                 "link": "https://genderize.io",
                 "description": " Estimates a gender from a first name ",
@@ -975,27 +1106,31 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "GitHub",
                 "link": "https://docs.github.com/en/free-pro-team@latest/rest",
                 "description": " Make use of GitHub repositories, code and user info programmatically ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Gitlab",
                 "link": "https://docs.gitlab.com/ee/api/",
                 "description": " Automate GitLab interaction programmatically ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Gitter",
                 "link": "https://developer.gitter.im/docs/welcome",
                 "description": " Chat for Developers ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "HTTP2.Pro",
                 "link": "https://http2.pro/doc/api",
                 "description": " Test endpoints for client and server HTTP/2 protocol support ",
@@ -1003,20 +1138,23 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "IBMTexttoSpeech",
                 "link": "https://cloud.ibm.com/docs/text-to-speech/getting-started.html",
                 "description": " Convert text to speech ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "IBMVisualRecognition",
                 "link": "https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3",
                 "description": " Visual Recognition with pretrained or user trained model ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Image-Charts",
                 "link": "https://documentation.image-charts.com/",
                 "description": " Generate charts, QR codes and graph images ",
@@ -1024,13 +1162,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "import.io",
                 "link": "http://api.docs.import.io/",
                 "description": " Retrieve structured data from a website or RSS feed ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "JSON2JSONP",
                 "link": "https://json2jsonp.com/",
                 "description": " Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript ",
@@ -1038,6 +1178,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "JSONPrettyPrint",
                 "link": "https://jsonprettyprint.org/api",
                 "description": " Pretty Prints JSON data ",
@@ -1045,13 +1186,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "JSONbin.io",
                 "link": "https://jsonbin.io",
                 "description": " Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Judge0",
                 "link": "https://api.judge0.com/",
                 "description": " Compile and run source code ",
@@ -1059,6 +1202,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "License-API",
                 "link": "https://github.com/cmccandless/license-api/blob/master/README.md",
                 "description": " Unofficial REST API for choosealicense.com ",
@@ -1066,13 +1210,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "MACaddressvendorlookup",
                 "link": "https://macaddress.io/api",
                 "description": " Retrieve vendor details and other information regarding a given MAC address or an OUI ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Nationalize.io",
                 "link": "https://nationalize.io",
                 "description": " Estimate the nationality of a first name ",
@@ -1080,6 +1226,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "OOPSpam",
                 "link": "https://oopspam.com/",
                 "description": " Multiple spam filtering service ",
@@ -1087,6 +1234,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Plino",
                 "link": "https://plino.herokuapp.com/",
                 "description": " Spam filtering system ",
@@ -1094,20 +1242,23 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Postman",
                 "link": "https://docs.api.getpostman.com/",
                 "description": " Tool for testing APIs ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "ProxyCrawl",
                 "link": "https://proxycrawl.com",
                 "description": " Scraping and crawling anticaptcha service ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "PublicAPIs",
                 "link": "https://github.com/davemachado/public-api",
                 "description": " A collective list of free JSON APIs for use in web development ",
@@ -1115,13 +1266,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "PusherBeams",
                 "link": "https://pusher.com/beams",
                 "description": " Push notifications for Android & iOS ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "QRcode",
                 "link": "http://qrtag.net/api/",
                 "description": " Create an easy to read QR code and URL shortener ",
@@ -1129,6 +1282,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "QRcode",
                 "link": "http://goqr.me/api/",
                 "description": " Generate and decode / read QR code graphics ",
@@ -1136,6 +1290,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "QuickChart",
                 "link": "https://quickchart.io/",
                 "description": " Generate chart and graph images ",
@@ -1143,6 +1298,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "ReqRes",
                 "link": "https://reqres.in/",
                 "description": " A hosted REST-API ready to respond to your AJAX requests ",
@@ -1150,27 +1306,31 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "Scraper.AI",
                 "link": "https://docs.scraper.ai/#/",
                 "description": " Extract and monitor data from any website ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "ScraperApi",
                 "link": "https://www.scraperapi.com",
                 "description": " Easily build scalable web scrapers ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "ScreenshotAPI.net",
                 "link": "https://screenshotapi.net/",
                 "description": " Create pixel-perfect website screenshots ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Development",
                 "name": "SHOUTCLOUD",
                 "link": "http://shoutcloud.io/",
                 "description": " ALL-CAPS AS A SERVICE ",
@@ -1178,10 +1338,11 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Development",
                 "name": "StackExchange",
                 "link": "https://api.stackexchange.com/",
                 "description": " Q&A forum for developers ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             }
         ]
@@ -1190,45 +1351,51 @@
         "name": " Dictionaries",
         "content": [
             {
+                "type": " Dictionaries",
                 "name": "LinguaRobot",
                 "link": "https://www.linguarobot.io",
                 "description": " Word definitions, pronunciations, synonyms, antonyms and others ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Dictionaries",
                 "name": "Merriam-Webster",
                 "link": "https://dictionaryapi.com/",
                 "description": " Dictionary and Thesaurus Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Dictionaries",
                 "name": "OwlBot",
                 "link": "https://owlbot.info/",
                 "description": " Definitions with example sentence and photo if available ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Dictionaries",
                 "name": "Oxford",
                 "link": "https://developer.oxforddictionaries.com/",
                 "description": " Dictionary Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Dictionaries",
                 "name": "Wordnik",
                 "link": "http://developer.wordnik.com",
                 "description": " Dictionary Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Dictionaries",
                 "name": "Words",
                 "link": "https://www.wordsapi.com/",
                 "description": " Definitions and synonyms for more than 150,000 words ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -1237,13 +1404,15 @@
         "name": " Documents & Productivity",
         "content": [
             {
+                "type": " Documents & Productivity",
                 "name": "CloudmersiveDocumentandDataConversion",
                 "link": "https://cloudmersive.com/convert-api",
                 "description": " HTML/URL to PDF/PNG, Office documents to PDF, image conversion ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Documents & Productivity",
                 "name": "File.io",
                 "link": "https://www.file.io",
                 "description": " File Sharing ",
@@ -1251,48 +1420,55 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Documents & Productivity",
                 "name": "Mercury",
                 "link": "https://mercury.postlight.com/web-parser/",
                 "description": " Web parser ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Documents & Productivity",
                 "name": "pdflayer",
                 "link": "https://pdflayer.com",
                 "description": " HTML/URL to PDF ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Documents & Productivity",
                 "name": "Pocket",
                 "link": "https://getpocket.com/developer/",
                 "description": " Bookmarking service ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Documents & Productivity",
                 "name": "PrexView",
                 "link": "https://prexview.com",
                 "description": " Data from XML or JSON to PDF, HTML or Image ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Documents & Productivity",
                 "name": "Restpack",
                 "link": "https://restpack.io/",
                 "description": " Provides screenshot, HTML to PDF and content extraction APIs ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Documents & Productivity",
                 "name": "Todoist",
                 "link": "https://developer.todoist.com",
                 "description": " Todo Lists ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Documents & Productivity",
                 "name": "WakaTime",
                 "link": "https://wakatime.com/developers",
                 "description": " Automated time tracking leaderboards for programmers ",
@@ -1305,13 +1481,15 @@
         "name": " Environment",
         "content": [
             {
+                "type": " Environment",
                 "name": "AirVisual",
                 "link": "https://airvisual.com/api",
                 "description": " Air quality and weather data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Environment",
                 "name": "Gr\u00c3\u00bcnstromIndex",
                 "link": "https://www.corrently.de/hintergrund/gruenstromindex/index.html",
                 "description": " Green Power Index for Germany (Gr\u00c3\u00bcnstromindex/GSI) ",
@@ -1319,27 +1497,31 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Environment",
                 "name": "OpenAQ",
                 "link": "https://docs.openaq.org/",
                 "description": " Open air quality data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Environment",
                 "name": "PM25.in",
                 "link": "http://www.pm25.in/api_doc",
                 "description": " Air quality of China ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Environment",
                 "name": "PVWatts",
                 "link": "https://developer.nrel.gov/docs/solar/pvwatts/v6/",
                 "description": " Energy production photovoltaic (PV) energy systems ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Environment",
                 "name": "UKCarbonIntensity",
                 "link": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0",
                 "description": " The Official Carbon Intensity API for Great Britain developed by National Grid ",
@@ -1352,24 +1534,27 @@
         "name": " Events",
         "content": [
             {
+                "type": " Events",
                 "name": "Eventbrite",
                 "link": "https://www.eventbrite.com/developer/v3/",
                 "description": " Find events ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Events",
                 "name": "Picatic",
                 "link": "http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=toddmotto",
                 "description": " Sell tickets anywhere ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Events",
                 "name": "Ticketmaster",
                 "link": "http://developer.ticketmaster.com/products-and-docs/apis/getting-started/",
                 "description": " Search events, attractions, or venues ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -1378,41 +1563,47 @@
         "name": " Finance",
         "content": [
             {
+                "type": " Finance",
                 "name": "AlphaVantage",
                 "link": "https://www.alphavantage.co/",
                 "description": " Realtime and historical stock data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Finance",
                 "name": "BarchartOnDemand",
                 "link": "https://www.barchartondemand.com/free",
                 "description": " Stock, Futures and Forex Market Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Finance",
                 "name": "IEXCloud",
                 "link": "https://iexcloud.io/",
                 "description": " Realtime & Historical Stock and Market Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Finance",
                 "name": "IG",
                 "link": "https://labs.ig.com/gettingstarted",
                 "description": " Spreadbetting and CFD Market Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Finance",
                 "name": "Plaid",
                 "link": "https://plaid.com/",
                 "description": " Connect with users\u00e2\u20ac\u2122 bank accounts and access transaction data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Finance",
                 "name": "RazorpayIFSC",
                 "link": "https://ifsc.razorpay.com/",
                 "description": " Indian Financial Systems Code (Bank Branch Codes) ",
@@ -1420,17 +1611,19 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Finance",
                 "name": "Tradier",
                 "link": "https://developer.tradier.com",
                 "description": " US equity/option market data (delayed, intraday, historical) ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Finance",
                 "name": "YNAB",
                 "link": "https://api.youneedabudget.com/",
                 "description": " Budgeting & Planning ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             }
         ]
@@ -1439,20 +1632,23 @@
         "name": " Food & Drink",
         "content": [
             {
+                "type": " Food & Drink",
                 "name": "Edamamnutrition",
                 "link": "https://developer.edamam.com/edamam-docs-nutrition-api",
                 "description": " Nutrition Analysis ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Food & Drink",
                 "name": "Edamamrecipes",
                 "link": "https://developer.edamam.com/edamam-docs-recipe-api",
                 "description": " Recipe Search ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Food & Drink",
                 "name": "Foodish",
                 "link": "https://github.com/surhud004/Foodish#readme",
                 "description": " Random pictures of food dishes ",
@@ -1460,13 +1656,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Food & Drink",
                 "name": "LCBO",
                 "link": "https://lcboapi.com/",
                 "description": " Alcohol ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Food & Drink",
                 "name": "OpenBreweryDB",
                 "link": "https://www.openbrewerydb.org",
                 "description": " Breweries, Cideries and Craft Beer Bottle Shops ",
@@ -1474,6 +1672,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Food & Drink",
                 "name": "OpenFoodFacts",
                 "link": "https://world.openfoodfacts.org/data",
                 "description": " Food Products Database ",
@@ -1481,6 +1680,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Food & Drink",
                 "name": "PunkAPI",
                 "link": "https://punkapi.com/",
                 "description": " Brewdog Beer Recipes ",
@@ -1488,6 +1688,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Food & Drink",
                 "name": "RecipePuppy",
                 "link": "http://www.recipepuppy.com/about/api/",
                 "description": " Food ",
@@ -1495,6 +1696,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Food & Drink",
                 "name": "TacoFancy",
                 "link": "https://github.com/evz/tacofancy-api",
                 "description": " Community-driven taco database ",
@@ -1502,6 +1704,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Food & Drink",
                 "name": "TheReportoftheWeek",
                 "link": "https://github.com/andyklimczak/TheReportOfTheWeek-API",
                 "description": " Food & Drink Reviews ",
@@ -1509,31 +1712,35 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Food & Drink",
                 "name": "TheCocktailDB",
                 "link": "https://www.thecocktaildb.com/api.php",
                 "description": " Cocktail Recipes ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Food & Drink",
                 "name": "TheMealDB",
                 "link": "https://www.themealdb.com/api.php",
                 "description": " Meal Recipes ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Food & Drink",
                 "name": "What'sonthemenu?",
                 "link": "http://nypl.github.io/menus-api/",
                 "description": " NYPL human-transcribed historical menu collection ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Food & Drink",
                 "name": "Zomato",
                 "link": "https://developers.zomato.com/api",
                 "description": " Discover restaurants ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -1542,6 +1749,7 @@
         "name": " Games & Comics",
         "content": [
             {
+                "type": " Games & Comics",
                 "name": "AgeofEmpiresII",
                 "link": "https://age-of-empires-2-api.herokuapp.com",
                 "description": " Get information about Age of Empires II resources ",
@@ -1549,6 +1757,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "CheapShark",
                 "link": "https://www.cheapshark.com/api",
                 "description": " Steam/PC Game Prices and Deals ",
@@ -1556,6 +1765,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "ChuckNorrisDatabase",
                 "link": "http://www.icndb.com/api/",
                 "description": " Jokes ",
@@ -1563,20 +1773,23 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Games & Comics",
                 "name": "ClashofClans",
                 "link": "https://developer.clashofclans.com",
                 "description": " Clash of Clans Game Information ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "ClashRoyale",
                 "link": "https://developer.clashroyale.com",
                 "description": " Clash Royale Game Information ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "ComicVine",
                 "link": "https://comicvine.gamespot.com/api/documentation",
                 "description": " Comics ",
@@ -1584,6 +1797,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "DeckofCards",
                 "link": "http://deckofcardsapi.com/",
                 "description": " Deck of Cards ",
@@ -1591,6 +1805,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Games & Comics",
                 "name": "Dota2",
                 "link": "https://docs.opendota.com/",
                 "description": " Provides information about Player stats , Match stats, Rankings for Dota 2 ",
@@ -1598,6 +1813,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "DungeonsandDragons",
                 "link": "http://www.dnd5eapi.co/",
                 "description": " Reference for 5th edition spells, classes, monsters, and more ",
@@ -1605,20 +1821,23 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Games & Comics",
                 "name": "EveOnline",
                 "link": "https://esi.evetech.net/ui",
                 "description": " Third-Party Developer Documentation ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "Fortnite",
                 "link": "https://fortnitetracker.com/site-api",
                 "description": " Fortnite Stats ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "GiantBomb",
                 "link": "https://www.giantbomb.com/api/documentation",
                 "description": " Video Games ",
@@ -1626,34 +1845,39 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "GuildWars2",
                 "link": "https://wiki.guildwars2.com/wiki/API:Main",
                 "description": " Guild Wars 2 Game Information ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "Halo",
                 "link": "https://developer.haloapi.com/",
                 "description": " Halo 5 and Halo Wars 2 Information ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "Hearthstone",
                 "link": "http://hearthstoneapi.com/",
                 "description": " Hearthstone Cards Information ",
-                "Auth": "X-Mashape-Key",
+                "Auth": "`X-Mashape-Key`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "Hypixel",
                 "link": "https://api.hypixel.net/",
                 "description": " Hypixel player stats ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "Hytale",
                 "link": "https://hytale-api.com/",
                 "description": " Hytale blog posts and jobs ",
@@ -1661,13 +1885,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "IGDB.com",
                 "link": "https://api.igdb.com/",
                 "description": " Video Game Database ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "JokeAPI",
                 "link": "https://sv443.net/jokeapi/v2/",
                 "description": " Programming, Miscellaneous and Dark Jokes ",
@@ -1675,6 +1901,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "Jokes",
                 "link": "https://github.com/15Dkatz/official_joke_api",
                 "description": " Programming and general jokes ",
@@ -1682,6 +1909,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "Jservice",
                 "link": "http://jservice.io",
                 "description": " Jeopardy Question Database ",
@@ -1689,6 +1917,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Games & Comics",
                 "name": "MagicTheGathering",
                 "link": "http://magicthegathering.io/",
                 "description": " Magic The Gathering Game Information ",
@@ -1696,13 +1925,15 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Games & Comics",
                 "name": "Marvel",
                 "link": "http://developer.marvel.com",
                 "description": " Marvel Comics ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Games & Comics",
                 "name": "OpenTrivia",
                 "link": "https://opentdb.com/api_config.php",
                 "description": " Trivia Questions ",
@@ -1710,20 +1941,23 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "PandaScore",
                 "link": "https://pandascore.co",
                 "description": " E-sports games and results ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "PlayerUnknown'sBattlegrounds",
                 "link": "https://pubgtracker.com/site-api",
                 "description": " PUBG Stats ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "Pok\u00c3\u00a9api",
                 "link": "https://pokeapi.co",
                 "description": " Pok\u00c3\u00a9mon Information ",
@@ -1731,6 +1965,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "Pok\u00c3\u00a9monTCG",
                 "link": "https://pokemontcg.io",
                 "description": " Pok\u00c3\u00a9mon TCG Information ",
@@ -1738,6 +1973,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "RickandMorty",
                 "link": "https://rickandmortyapi.com",
                 "description": " All the Rick and Morty information, including images ",
@@ -1745,13 +1981,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "RiotGames",
                 "link": "https://developer.riotgames.com/",
                 "description": " League of Legends Game Information ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "Scryfall",
                 "link": "https://scryfall.com/docs/api",
                 "description": " Magic: The Gathering database ",
@@ -1759,13 +1997,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "Steam",
                 "link": "https://developer.valvesoftware.com/wiki/Steam_Web_API",
                 "description": " Steam Client Interaction ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "TronaldDump",
                 "link": "https://www.tronalddump.io/",
                 "description": " The dumbest things Donald Trump has ever said ",
@@ -1773,13 +2013,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "Wargaming.net",
                 "link": "https://developers.wargaming.net/",
                 "description": " Wargaming.net info and stats ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Games & Comics",
                 "name": "xkcd",
                 "link": "https://xkcd.com/json.html",
                 "description": " Retrieve xkcd comics as JSON ",
@@ -1792,6 +2034,7 @@
         "name": " Geocoding",
         "content": [
             {
+                "type": " Geocoding",
                 "name": "adresse.data.gouv.fr",
                 "link": "https://adresse.data.gouv.fr",
                 "description": " Address database of France, geocoding and reverse ",
@@ -1799,13 +2042,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "BingMaps",
                 "link": "https://www.microsoft.com/maps/",
                 "description": " Create/customize digital maps based on Bing Maps data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "bng2latlong",
                 "link": "https://www.getthedata.com/bng2latlong",
                 "description": " Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude ",
@@ -1813,6 +2058,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "CitySDK",
                 "link": "http://www.citysdk.eu/citysdk-toolkit/",
                 "description": " Open APIs for select European cities ",
@@ -1820,13 +2066,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "DaumMaps",
                 "link": "http://apis.map.daum.net/",
                 "description": " Daum Maps provide multiple APIs for Korean maps ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Geocoding",
                 "name": "FreeGeoIP",
                 "link": "https://freegeoip.app/",
                 "description": " Free geo ip information, no registration required. 15k/hour rate limit ",
@@ -1834,6 +2082,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "GeoApi",
                 "link": "https://api.gouv.fr/api/geoapi.html",
                 "description": " French geographical data ",
@@ -1841,13 +2090,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "Geocod.io",
                 "link": "https://www.geocod.io/",
                 "description": " Address geocoding / reverse geocoding in bulk ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "Geocode.xyz",
                 "link": "https://geocode.xyz/",
                 "description": " Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing ",
@@ -1855,13 +2106,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "GeoDataSource",
                 "link": "https://www.geodatasource.com/web-service",
                 "description": " Geocoding of city name by using latitude and longitude coordinates ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "GeoJS",
                 "link": "https://geojs.io/",
                 "description": " IP geolocation with ChatOps integration ",
@@ -1869,6 +2122,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "GeoNames",
                 "link": "http://www.geonames.org/export/web-services.html",
                 "description": " Place names and other geographical data ",
@@ -1876,6 +2130,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Geocoding",
                 "name": "geoPlugin",
                 "link": "https://www.geoplugin.com",
                 "description": " IP geolocation and currency conversion ",
@@ -1883,20 +2138,23 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "GoogleEarthEngine",
                 "link": "https://developers.google.com/earth-engine/",
                 "description": " A cloud-based platform for planetary-scale environmental data analysis ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "GoogleMaps",
                 "link": "https://developers.google.com/maps/",
                 "description": " Create/customize digital maps based on Google Maps data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "HelloSalut",
                 "link": "https://www.fourtonfish.com/hellosalut/hello/",
                 "description": " Get hello translation following user language ",
@@ -1904,13 +2162,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "HEREMaps",
                 "link": "https://developer.here.com",
                 "description": " Create/customize digital maps based on HERE Maps data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "IP2Country",
                 "link": "https://ip2country.info",
                 "description": " Map an IP to a country ",
@@ -1918,6 +2178,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "IPAddressDetails",
                 "link": "https://ipinfo.io/",
                 "description": " Find geolocation with ip address ",
@@ -1925,6 +2186,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "IPLocation",
                 "link": "http://ip-api.com/",
                 "description": " Find location with ip address ",
@@ -1932,6 +2194,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Geocoding",
                 "name": "IPLocation",
                 "link": "https://ipapi.co/",
                 "description": " Find IP address location information ",
@@ -1939,27 +2202,31 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "IPSidekick",
                 "link": "https://ipsidekick.com",
                 "description": " Geolocation API that returns extra information about an IP address ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "IP2Location",
                 "link": "https://www.ip2location.com/web-service/ip2location",
                 "description": " IP geolocation web service to get more than 55 parameters ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "IP2Proxy",
                 "link": "https://www.ip2location.com/web-service/ip2proxy",
                 "description": " Detect proxy and VPN using IP address ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "IPGeolocationAPI.com",
                 "link": "https://ipgeolocationapi.com/",
                 "description": " Locate your visitors by IP with country details ",
@@ -1967,41 +2234,47 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "IPInfoDB",
                 "link": "https://ipinfodb.com/api",
                 "description": " Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "ipstack",
                 "link": "https://ipstack.com/",
                 "description": " Locate and identify website visitors by IP address ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "LocationIQ",
                 "link": "https://locationiq.org/docs/",
                 "description": " Provides forward/reverse geocoding and batch geocoding ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "Mapbox",
                 "link": "https://www.mapbox.com/developers/",
                 "description": " Create/customize beautiful digital maps ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "OneMap,Singapore",
                 "link": "https://docs.onemap.sg/",
                 "description": " Singapore Land Authority REST API services for Singapore addresses ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "OnWater",
                 "link": "https://onwater.io/",
                 "description": " Determine if a lat/lon is on water or land ",
@@ -2009,20 +2282,23 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "OpenCage",
                 "link": "https://opencagedata.com",
                 "description": " Forward and reverse geocoding using open data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "OpenStreetMap",
                 "link": "http://wiki.openstreetmap.org/wiki/API",
                 "description": " Navigation, geolocation and geographical data ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "No"
             },
             {
+                "type": " Geocoding",
                 "name": "PostcodeData.nl",
                 "link": "http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json",
                 "description": " Provide geolocation data based on postcode for Dutch addresses ",
@@ -2030,6 +2306,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Geocoding",
                 "name": "Postcodes.io",
                 "link": "https://postcodes.io",
                 "description": " Postcode lookup & Geolocation for the UK ",
@@ -2037,27 +2314,31 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "Uebermaps",
                 "link": "https://uebermaps.com/api/v2",
                 "description": " Discover and share maps with friends ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "USZipCode",
                 "link": "https://smartystreets.com/docs/cloud/us-zipcode-api",
                 "description": " Validate and append data for any US ZipCode ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "UtahAGRC",
                 "link": "https://api.mapserv.utah.gov",
                 "description": " Utah Web API for geocoding Utah addresses ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Geocoding",
                 "name": "Zippopotam",
                 "link": "http://www.zippopotam.us",
                 "description": " Get information about place such as country, city, state, etc ",
@@ -2070,6 +2351,7 @@
         "name": " Government",
         "content": [
             {
+                "type": " Government",
                 "name": "BCLaws",
                 "link": "http://www.bclaws.ca/civix/template/complete/api/index.html",
                 "description": " Access to the laws of British Columbia ",
@@ -2077,13 +2359,15 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Government",
                 "name": "BusinessUSA",
                 "link": "https://business.usa.gov/developer",
                 "description": " Authoritative information on U.S. programs, events, services and more ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "Census.gov",
                 "link": "https://www.census.gov/data/developers/data-sets.html",
                 "description": " The US Census Bureau provides various APIs and data sets on demographics and businesses ",
@@ -2091,20 +2375,23 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "City,LyonOpendata",
                 "link": "https://data.beta.grandlyon.com/fr/accueil",
                 "description": " Lyon(FR) City Open Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "City,NantesOpendata",
                 "link": "https://data.nantesmetropole.fr/pages/home/",
                 "description": " Nantes(FR) City Open Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "City,NewYorkOpendata",
                 "link": "https://opendata.cityofnewyork.us/",
                 "description": " New York (US) City Open Data ",
@@ -2112,6 +2399,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "City,PragueOpendata",
                 "link": "http://opendata.praha.eu/en",
                 "description": " Prague(CZ) City Open Data ",
@@ -2119,13 +2407,15 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Government",
                 "name": "Code.gov",
                 "link": "https://code.gov",
                 "description": " The primary platform for Open Source and code sharing for the U.S. Federal Government ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "ColoradoDataEngine",
                 "link": "http://codataengine.org/",
                 "description": " Formatted and geolocated Colorado public data ",
@@ -2133,6 +2423,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "ColoradoInformationMarketplace",
                 "link": "https://data.colorado.gov/",
                 "description": " Colorado State Government Open Data ",
@@ -2140,6 +2431,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "DataUSA",
                 "link": "https://datausa.io/about/api/",
                 "description": " US Public Data ",
@@ -2147,13 +2439,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "Data.gov",
                 "link": "https://api.data.gov/",
                 "description": " US Government Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "Data.parliament.uk",
                 "link": "http://www.data.parliament.uk/developers/",
                 "description": " Contains live datasets including information about petitions, bills, MP votes, attendance and more ",
@@ -2161,6 +2455,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Government",
                 "name": "DistrictofColumbiaOpenData",
                 "link": "http://opendata.dc.gov/pages/using-apis",
                 "description": " Contains D.C. government public datasets, including crime, GIS, financial data, and so on ",
@@ -2168,6 +2463,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "EPA",
                 "link": "https://developer.epa.gov/category/apis/",
                 "description": " Web services and data sets from the US Environmental Protection Agency ",
@@ -2175,6 +2471,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "FBIWanted",
                 "link": "https://www.fbi.gov/wanted/api",
                 "description": " Access information on the FBI Wanted program ",
@@ -2182,13 +2479,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "FEC",
                 "link": "https://api.open.fec.gov/developers/",
                 "description": " Information on campaign donations in federal elections ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "FederalRegister",
                 "link": "https://www.federalregister.gov/reader-aids/developer-resources",
                 "description": " The Daily Journal of the United States Government ",
@@ -2196,6 +2495,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "OpenGovernment,Australia",
                 "link": "https://www.data.gov.au/",
                 "description": " Australian Government Open Data ",
@@ -2203,6 +2503,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "OpenGovernment,Belgium",
                 "link": "https://data.gov.be/",
                 "description": " Belgium Government Open Data ",
@@ -2210,6 +2511,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "OpenGovernment,Canada",
                 "link": "http://open.canada.ca/en",
                 "description": " Canadian Government Open Data ",
@@ -2217,20 +2519,23 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Government",
                 "name": "OpenGovernment,France",
                 "link": "https://www.data.gouv.fr/",
                 "description": " French Government Open Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "OpenGovernment,India",
                 "link": "https://data.gov.in/",
                 "description": " Indian Government Open Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "OpenGovernment,Italy",
                 "link": "https://www.dati.gov.it/",
                 "description": " Italy Government Open Data ",
@@ -2238,6 +2543,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "OpenGovernment,NewZealand",
                 "link": "https://www.data.govt.nz/",
                 "description": " New Zealand Government Open Data ",
@@ -2245,6 +2551,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "OpenGovernment,Romania",
                 "link": "http://data.gov.ro/",
                 "description": " Romania Government Open Data ",
@@ -2252,6 +2559,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Government",
                 "name": "OpenGovernment,Taiwan",
                 "link": "https://data.gov.tw/",
                 "description": " Taiwan Government Open Data ",
@@ -2259,6 +2567,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "OpenGovernment,USA",
                 "link": "https://www.data.gov/",
                 "description": " United States Government Open Data ",
@@ -2266,13 +2575,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "Regulations.gov",
                 "link": "https://regulationsgov.github.io/developers/",
                 "description": " Federal regulatory materials to increase understanding of the Federal rule making process ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "RepresentbyOpenNorth",
                 "link": "https://represent.opennorth.ca/",
                 "description": " Find Canadian Government Representatives ",
@@ -2280,6 +2591,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Government",
                 "name": "USAspending.gov",
                 "link": "https://api.usaspending.gov/",
                 "description": " US federal spending data ",
@@ -2292,13 +2604,15 @@
         "name": " Health",
         "content": [
             {
+                "type": " Health",
                 "name": "BetterDoctor",
                 "link": "https://developer.betterdoctor.com/",
                 "description": " Detailed information about doctors in your area ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Health",
                 "name": "Covid-19",
                 "link": "https://covid19api.com/",
                 "description": " Covid 19 spread, infection and recovery ",
@@ -2306,6 +2620,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Health",
                 "name": "Covid-19",
                 "link": "https://github.com/M-Media-Group/Covid-19-API",
                 "description": " Covid 19 cases, deaths and recovery per country ",
@@ -2313,6 +2628,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Health",
                 "name": "Covid-19GovernmentResponse",
                 "link": "https://covidtracker.bsg.ox.ac.uk",
                 "description": " Government measures tracker to fight against the Covid-19 pandemic ",
@@ -2320,6 +2636,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Health",
                 "name": "Diabetes",
                 "link": "http://predictbgl.com/api/",
                 "description": " Logging and retrieving diabetes information ",
@@ -2327,6 +2644,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Health",
                 "name": "Healthcare.gov",
                 "link": "https://www.healthcare.gov/developers/",
                 "description": " Educational content about the US Health Insurance Marketplace ",
@@ -2334,13 +2652,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Health",
                 "name": "Lexigram",
                 "link": "https://docs.lexigram.io/v1/welcome",
                 "description": " NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Health",
                 "name": "Makeup",
                 "link": "http://makeup-api.herokuapp.com/",
                 "description": " Makeup Information ",
@@ -2348,6 +2668,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Health",
                 "name": "Medicare",
                 "link": "https://data.medicare.gov/developers",
                 "description": " Access to the data from the CMS - medicare.gov ",
@@ -2355,6 +2676,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Health",
                 "name": "NPPES",
                 "link": "https://npiregistry.cms.hhs.gov/registry/help-api",
                 "description": " National Plan & Provider Enumeration System, info on healthcare providers registered in US ",
@@ -2362,13 +2684,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Health",
                 "name": "Nutritionix",
                 "link": "https://developer.nutritionix.com/",
                 "description": " Worlds largest verified nutrition database ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Health",
                 "name": "openFDA",
                 "link": "https://open.fda.gov",
                 "description": " Public FDA data about drugs, devices and foods ",
@@ -2376,17 +2700,19 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Health",
                 "name": "OrionHealth",
                 "link": "https://developer.orionhealth.io/",
                 "description": " Medical platform which allows the development of applications for different healthcare scenarios ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Health",
                 "name": "USDANutrients",
                 "link": "https://fdc.nal.usda.gov/",
                 "description": " National Nutrient Database for Standard Reference ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -2395,20 +2721,23 @@
         "name": " Jobs",
         "content": [
             {
+                "type": " Jobs",
                 "name": "Adzuna",
                 "link": "https://developer.adzuna.com/overview",
                 "description": " Job board aggregator ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Jobs",
                 "name": "Careerjet",
                 "link": "https://www.careerjet.com/partners/api/",
                 "description": " Job search engine ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Jobs",
                 "name": "GithubJobs",
                 "link": "https://jobs.github.com/api",
                 "description": " Jobs for software developers ",
@@ -2416,6 +2745,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Jobs",
                 "name": "GraphQLJobs",
                 "link": "https://api.graphql.jobs",
                 "description": " Jobs with GraphQL ",
@@ -2423,34 +2753,39 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Jobs",
                 "name": "Indeed",
                 "link": "https://www.indeed.com/publisher",
                 "description": " Job board aggregator ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Jobs",
                 "name": "Jobs2Careers",
                 "link": "http://api.jobs2careers.com/api/spec.pdf",
                 "description": " Job aggregator ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Jobs",
                 "name": "Jooble",
                 "link": "https://us.jooble.org/api/about",
                 "description": " Job search engine ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Jobs",
                 "name": "Juju",
                 "link": "http://www.juju.com/publisher/spec/",
                 "description": " Job search engine ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Jobs",
                 "name": "OpenSkills",
                 "link": "https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview",
                 "description": " Job titles, skills and related jobs data ",
@@ -2458,38 +2793,43 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Jobs",
                 "name": "Reed",
                 "link": "https://www.reed.co.uk/developers",
                 "description": " Job board aggregator ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Jobs",
                 "name": "TheMuse",
                 "link": "https://www.themuse.com/developers/api/v2",
                 "description": " Job board and company profiles ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Jobs",
                 "name": "Upwork",
                 "link": "https://developers.upwork.com/",
                 "description": " Freelance job board and management system ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Jobs",
                 "name": "USAJOBS",
                 "link": "https://developer.usajobs.gov/",
                 "description": " US government job board ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Jobs",
                 "name": "ZipRecruiter",
                 "link": "https://www.ziprecruiter.com/publishers",
                 "description": " Job search app and website ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -2498,20 +2838,23 @@
         "name": " Machine Learning",
         "content": [
             {
+                "type": " Machine Learning",
                 "name": "Clarifai",
                 "link": "https://developer.clarifai.com/",
                 "description": " Computer Vision ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Machine Learning",
                 "name": "Cloudmersive",
                 "link": "https://www.cloudmersive.com/image-recognition-and-processing-api",
                 "description": " Image captioning, face recognition, NSFW classification ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Machine Learning",
                 "name": "Deepcode",
                 "link": "https://www.deepcode.ai/docs/Overview%252FOverview",
                 "description": " AI for code review ",
@@ -2519,20 +2862,23 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Machine Learning",
                 "name": "Dialogflow",
                 "link": "https://dialogflow.com",
                 "description": " Natural Language Processing ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Machine Learning",
                 "name": "KeenIO",
                 "link": "https://keen.io/",
                 "description": " Data Analytics ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Machine Learning",
                 "name": "Sentim-API",
                 "link": "https://sentim-api.herokuapp.com",
                 "description": " Text sentiment analysis ",
@@ -2540,17 +2886,19 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Machine Learning",
                 "name": "Unplugg",
                 "link": "https://unplu.gg/test_api.html",
                 "description": " Forecasting API for timeseries data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Machine Learning",
                 "name": "Wit.ai",
                 "link": "https://wit.ai/",
                 "description": " Natural Language Processing ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             }
         ]
@@ -2559,13 +2907,15 @@
         "name": " Music",
         "content": [
             {
+                "type": " Music",
                 "name": "AIMastering",
                 "link": "https://aimastering.com/api_docs/",
                 "description": " Automated Music Mastering ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Bandsintown",
                 "link": "https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0",
                 "description": " Music Events ",
@@ -2573,27 +2923,31 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Deezer",
                 "link": "https://developers.deezer.com/api",
                 "description": " Music ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Discogs",
                 "link": "https://www.discogs.com/developers/",
                 "description": " Music ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Genius",
                 "link": "https://docs.genius.com/",
                 "description": " Crowdsourced lyrics and music knowledge ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Genrenator",
                 "link": "https://binaryjazz.us/genrenator-api/",
                 "description": " Music genre generator ",
@@ -2601,6 +2955,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "iTunesSearch",
                 "link": "https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/",
                 "description": " Software products ",
@@ -2608,27 +2963,31 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Jamendo",
                 "link": "https://developer.jamendo.com/v3.0/docs",
                 "description": " Music ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "KKBOX",
                 "link": "https://developer.kkbox.com",
                 "description": " Get music libraries, playlists, charts, and perform out of KKBOX's platform ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "LastFm",
                 "link": "https://www.last.fm/api",
                 "description": " Music ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Lyrics.ovh",
                 "link": "http://docs.lyricsovh.apiary.io/",
                 "description": " Simple API to retrieve the lyrics of a song ",
@@ -2636,13 +2995,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Mixcloud",
                 "link": "https://www.mixcloud.com/developers/",
                 "description": " Music ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "MusicBrainz",
                 "link": "https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2",
                 "description": " Music ",
@@ -2650,20 +3011,23 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Musixmatch",
                 "link": "https://developer.musixmatch.com/",
                 "description": " Music ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Openwhyd",
                 "link": "https://openwhyd.github.io/openwhyd/API",
                 "description": " Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...) ",
-                "Auth": "No",
+                "Auth": "`No`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "SearchLy",
                 "link": "https://searchly.asuarez.dev/docs/v1",
                 "description": " Similarities search based on song lyrics ",
@@ -2671,13 +3035,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Songkick",
                 "link": "https://www.songkick.com/developer/",
                 "description": " Music Events ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Songsterr",
                 "link": "https://www.songsterr.com/a/wa/api/",
                 "description": " Provides guitar, bass and drums tabs and chords ",
@@ -2685,38 +3051,43 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "SoundCloud",
                 "link": "https://developers.soundcloud.com/",
                 "description": " Allow users to upload and share sounds ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Spotify",
                 "link": "https://beta.developer.spotify.com/documentation/web-api/",
                 "description": " View Spotify music catalog, manage users' libraries, get recommendations and more ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "TasteDive",
                 "link": "https://tastedive.com/read/api",
                 "description": " Similar artist API (also works for movies and TV shows) ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "TheAudioDB",
                 "link": "https://www.theaudiodb.com/api_guide.php",
                 "description": " Music ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Music",
                 "name": "Vagalume",
                 "link": "https://api.vagalume.com.br/docs/",
                 "description": " Crowdsourced lyrics and music knowledge ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -2725,13 +3096,15 @@
         "name": " News",
         "content": [
             {
+                "type": " News",
                 "name": "AssociatedPress",
                 "link": "https://developer.ap.org/",
                 "description": " Search for news and metadata from Associated Press ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " News",
                 "name": "ChroniclingAmerica",
                 "link": "http://chroniclingamerica.loc.gov/about/api/",
                 "description": " Provides access to millions of pages of historic US newspapers from the Library of Congress ",
@@ -2739,41 +3112,47 @@
                 "HTTPS": "No"
             },
             {
+                "type": " News",
                 "name": "Currents",
                 "link": "https://currentsapi.services/",
                 "description": " Latest news published in various news sources, blogs and forums ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " News",
                 "name": "Feedbin",
                 "link": "https://github.com/feedbin/feedbin-api",
                 "description": " RSS reader ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " News",
                 "name": "NewYorkTimes",
                 "link": "https://developer.nytimes.com/",
                 "description": " Provides news ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " News",
                 "name": "News",
                 "link": "https://newsapi.org/",
                 "description": " Headlines currently published on a range of news sources and blogs ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " News",
                 "name": "NPROne",
                 "link": "http://dev.npr.org/api/",
                 "description": " Personalized news listening experience from NPR ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " News",
                 "name": "SpaceflightNews",
                 "link": "https://spaceflightnewsapi.net",
                 "description": " Spaceflight related news \u00f0\u0178\u0161\u20ac ",
@@ -2781,17 +3160,19 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " News",
                 "name": "TheGuardian",
                 "link": "http://open-platform.theguardian.com/",
                 "description": " Access all the content the Guardian creates, categorised by tags and section ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " News",
                 "name": "TheOldReader",
                 "link": "https://github.com/theoldreader/api",
                 "description": " RSS reader ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -2800,6 +3181,7 @@
         "name": " Open Data",
         "content": [
             {
+                "type": " Open Data",
                 "name": "18F",
                 "link": "http://18f.github.io/API-All-the-X/",
                 "description": " Unofficial US Federal Government API Development ",
@@ -2807,6 +3189,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Open Data",
                 "name": "Archive.org",
                 "link": "https://archive.readme.io/docs",
                 "description": " The Internet Archive ",
@@ -2814,6 +3197,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "Callook.info",
                 "link": "https://callook.info",
                 "description": " United States ham radio callsigns ",
@@ -2821,27 +3205,31 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "CARTO",
                 "link": "https://carto.com/",
                 "description": " Location Information Prediction ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "CivicFeed",
                 "link": "https://developers.civicfeed.com/",
                 "description": " News articles and public datasets ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "EnigmaPublic",
                 "link": "http://docs.enigma.com/public/public_v20_api_about",
                 "description": " Broadest collection of public data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "fonoApi",
                 "link": "https://fonoapi.freshpixl.com/",
                 "description": " Mobile Device Description ",
@@ -2849,6 +3237,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "FrenchAddressSearch",
                 "link": "https://geo.api.gouv.fr/adresse",
                 "description": " Address search via the French Government ",
@@ -2856,20 +3245,23 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "LinkPreview",
                 "link": "https://www.linkpreview.net",
                 "description": " Get JSON formatted summary with title, description and preview image for any requested URL ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "MarijuanaStrains",
                 "link": "http://strains.evanbusse.com/",
                 "description": " Marijuana strains, races, flavors and effects ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Open Data",
                 "name": "Microlink.io",
                 "link": "https://microlink.io",
                 "description": " Extract structured data from any website ",
@@ -2877,13 +3269,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "OpenCorporates",
                 "link": "http://api.opencorporates.com/documentation/API-Reference",
                 "description": " Data on corporate entities and directors in many countries ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "Quandl",
                 "link": "https://www.quandl.com/",
                 "description": " Stock Market Data ",
@@ -2891,20 +3285,23 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "RecreationInformationDatabase",
                 "link": "https://ridb.recreation.gov/",
                 "description": " Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US) ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "Scoop.it",
                 "link": "http://www.scoop.it/dev",
                 "description": " Content Curation Service ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Open Data",
                 "name": "Teleport",
                 "link": "https://developers.teleport.org/",
                 "description": " Quality of Life Data ",
@@ -2912,6 +3309,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "UniversitiesList",
                 "link": "https://github.com/Hipo/university-domains-list",
                 "description": " University names, countries and domains ",
@@ -2919,6 +3317,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "UniversityofOslo",
                 "link": "https://data.uio.no/",
                 "description": " Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway) ",
@@ -2926,20 +3325,23 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "UPCdatabase",
                 "link": "https://upcdatabase.org/api",
                 "description": " More than 1.5 million barcode numbers from all around the world ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "Wikidata",
                 "link": "https://www.wikidata.org/w/api.php?action=help",
                 "description": " Collaboratively edited knowledge base operated by the Wikimedia Foundation ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "Wikipedia",
                 "link": "https://www.mediawiki.org/wiki/API:Main_page",
                 "description": " Mediawiki Encyclopedia ",
@@ -2947,10 +3349,11 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Data",
                 "name": "Yelp",
                 "link": "https://www.yelp.com/developers/documentation/v3",
                 "description": " Find Local Business ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             }
         ]
@@ -2959,6 +3362,7 @@
         "name": " Open Source Projects",
         "content": [
             {
+                "type": " Open Source Projects",
                 "name": "Countly",
                 "link": "https://api.count.ly/reference",
                 "description": " Countly web analytics ",
@@ -2966,13 +3370,15 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Open Source Projects",
                 "name": "CreativeCommonsCatalog",
                 "link": "https://api.creativecommons.engineering/",
                 "description": " Search among openly licensed and public domain works ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Source Projects",
                 "name": "Drupal.org",
                 "link": "https://www.drupal.org/drupalorg/docs/api",
                 "description": " Drupal.org ",
@@ -2980,6 +3386,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Open Source Projects",
                 "name": "EvilInsultGenerator",
                 "link": "https://evilinsult.com/api",
                 "description": " Evil Insults ",
@@ -2992,20 +3399,23 @@
         "name": " Patent",
         "content": [
             {
+                "type": " Patent",
                 "name": "EPO",
                 "link": "https://developers.epo.org/",
                 "description": " European patent search system api ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Patent",
                 "name": "TIPO",
                 "link": "https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00",
                 "description": " Taiwan patent search system api ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Patent",
                 "name": "USPTO",
                 "link": "https://www.uspto.gov/learning-and-resources/open-data-and-mobility",
                 "description": " USA patent api services ",
@@ -3018,6 +3428,7 @@
         "name": " Personality",
         "content": [
             {
+                "type": " Personality",
                 "name": "AdviceSlip",
                 "link": "http://api.adviceslip.com/",
                 "description": " Generate random advice slips ",
@@ -3025,6 +3436,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Personality",
                 "name": "chucknorris.io",
                 "link": "https://api.chucknorris.io",
                 "description": " JSON API for hand curated Chuck Norris jokes ",
@@ -3032,13 +3444,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Personality",
                 "name": "FavQs.com",
                 "link": "https://favqs.com/api",
                 "description": " FavQs allows you to collect, discover and share your favorite quotes ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Personality",
                 "name": "FOAAS",
                 "link": "http://www.foaas.com/",
                 "description": " Fuck Off As A Service ",
@@ -3046,6 +3460,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Personality",
                 "name": "Forismatic",
                 "link": "http://forismatic.com/en/api/",
                 "description": " Inspirational Quotes ",
@@ -3053,6 +3468,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Personality",
                 "name": "icanhazdadjoke",
                 "link": "https://icanhazdadjoke.com/api",
                 "description": " The largest selection of dad jokes on the internet ",
@@ -3060,6 +3476,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Personality",
                 "name": "kanye.rest",
                 "link": "https://kanye.rest",
                 "description": " REST API for random Kanye West quotes ",
@@ -3067,13 +3484,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Personality",
                 "name": "Medium",
                 "link": "https://github.com/Medium/medium-api-docs",
                 "description": " Community of readers and writers offering unique perspectives on ideas ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Personality",
                 "name": "NaMoMemes",
                 "link": "https://github.com/theIYD/NaMoMemes",
                 "description": " Memes on Narendra Modi ",
@@ -3081,6 +3500,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Personality",
                 "name": "ProgrammingQuotes",
                 "link": "https://github.com/skolakoda/programming-quotes-api",
                 "description": " Programming Quotes API for open source projects ",
@@ -3088,6 +3508,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Personality",
                 "name": "QuoteGarden",
                 "link": "https://pprathameshmore.github.io/QuoteGarden/",
                 "description": " REST API for more than 5000 famous quotes ",
@@ -3095,6 +3516,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Personality",
                 "name": "QuotesonDesign",
                 "link": "https://quotesondesign.com/api/",
                 "description": " Inspirational Quotes ",
@@ -3102,6 +3524,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Personality",
                 "name": "taylor.rest",
                 "link": "https://taylor.rest",
                 "description": " REST API for random Taylor Swift quotes ",
@@ -3109,6 +3532,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Personality",
                 "name": "Traitify",
                 "link": "https://app.traitify.com/developer",
                 "description": " Assess, collect and analyze Personality ",
@@ -3116,6 +3540,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Personality",
                 "name": "tronalddump.io",
                 "link": "https://www.tronalddump.io",
                 "description": " Api & web archive for the things Donald Trump has said ",
@@ -3128,48 +3553,55 @@
         "name": " Photography",
         "content": [
             {
+                "type": " Photography",
                 "name": "Flickr",
                 "link": "https://www.flickr.com/services/api/",
                 "description": " Flickr Services ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Photography",
                 "name": "GettyImages",
                 "link": "http://developers.gettyimages.com/en/",
                 "description": " Build applications using the world's most powerful imagery ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Photography",
                 "name": "Gfycat",
                 "link": "https://developers.gfycat.com/api/",
                 "description": " Jiffier GIFs ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Photography",
                 "name": "Giphy",
                 "link": "https://developers.giphy.com/docs/",
                 "description": " Get all your gifs ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Photography",
                 "name": "Gyazo",
                 "link": "https://gyazo.com/api/docs",
                 "description": " Upload images ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Photography",
                 "name": "Imgur",
                 "link": "https://apidocs.imgur.com/",
                 "description": " Images ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Photography",
                 "name": "LoremPicsum",
                 "link": "https://picsum.photos/",
                 "description": " Images from Unsplash ",
@@ -3177,27 +3609,31 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Photography",
                 "name": "ObjectCut",
                 "link": "https://objectcut.com/",
                 "description": " Image Background removal ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Photography",
                 "name": "Pexels",
                 "link": "https://www.pexels.com/api/",
                 "description": " Free Stock Photos and Videos ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Photography",
                 "name": "Pixabay",
                 "link": "https://pixabay.com/sk/service/about/api/",
                 "description": " Photography ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Photography",
                 "name": "PlaceKitten",
                 "link": "https://placekitten.com/",
                 "description": " Resizable kitten placeholder images ",
@@ -3205,6 +3641,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Photography",
                 "name": "ScreenShotLayer",
                 "link": "https://screenshotlayer.com",
                 "description": " URL 2 Image ",
@@ -3212,17 +3649,19 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Photography",
                 "name": "Unsplash",
                 "link": "https://unsplash.com/developers",
                 "description": " Photography ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Photography",
                 "name": "Wallhaven",
                 "link": "https://wallhaven.cc/help/api",
                 "description": " Wallpapers ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -3231,6 +3670,7 @@
         "name": " Science & Math",
         "content": [
             {
+                "type": " Science & Math",
                 "name": "arcsecond.io",
                 "link": "https://api.arcsecond.io/",
                 "description": " Multiple astronomy data sources ",
@@ -3238,13 +3678,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "CORE",
                 "link": "https://core.ac.uk/services#api",
                 "description": " Access the world's Open Access research papers ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "GBIF",
                 "link": "http://api.gbif.org/v1/",
                 "description": " Global Biodiversity Information Facility ",
@@ -3252,6 +3694,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "iDigBio",
                 "link": "https://github.com/idigbio/idigbio-search-api/wiki",
                 "description": " Access millions of museum specimens from organizations around the world ",
@@ -3259,6 +3702,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "inspirehep.net",
                 "link": "https://inspirehep.net/info/hep/api?ln=en",
                 "description": " High Energy Physics info. system ",
@@ -3266,6 +3710,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "ITIS",
                 "link": "https://www.itis.gov/ws_description.html",
                 "description": " Integrated Taxonomic Information System ",
@@ -3273,6 +3718,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "LaunchLibrary2",
                 "link": "https://ll.thespacedevs.com/2.1.0/swagger",
                 "description": " Spaceflight launches and events database ",
@@ -3280,6 +3726,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "MinorPlanetCenter",
                 "link": "http://www.asterank.com/mpc",
                 "description": " Asterank.com Information ",
@@ -3287,6 +3734,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Science & Math",
                 "name": "NASA",
                 "link": "https://api.nasa.gov",
                 "description": " NASA data, including imagery ",
@@ -3294,6 +3742,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "NASAAPOD(unofficialAPI)",
                 "link": "https://apodapi.herokuapp.com/",
                 "description": " API for getting APOD (Astronomy Image of the Day) images along with metadata ",
@@ -3301,6 +3750,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "Newton",
                 "link": "https://newton.now.sh/",
                 "description": " Symbolic and Arithmetic Math Calculator ",
@@ -3308,6 +3758,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "Numbers",
                 "link": "http://numbersapi.com",
                 "description": " Facts about numbers ",
@@ -3315,6 +3766,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Science & Math",
                 "name": "OpenNotify",
                 "link": "http://open-notify.org/Open-Notify-API/",
                 "description": " ISS astronauts, current location, etc ",
@@ -3322,6 +3774,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Science & Math",
                 "name": "OpenScienceFramework",
                 "link": "https://developer.osf.io",
                 "description": " Repository and archive for study designs, research materials, data, manuscripts, etc ",
@@ -3329,6 +3782,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "SHARE",
                 "link": "https://share.osf.io/api/v2/",
                 "description": " A free, open, dataset about research and scholarly activities ",
@@ -3336,6 +3790,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "SpaceX",
                 "link": "https://github.com/r-spacex/SpaceX-API",
                 "description": " Company, vehicle, launchpad and launch data ",
@@ -3343,6 +3798,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "SunriseandSunset",
                 "link": "https://sunrise-sunset.org/api",
                 "description": " Sunset and sunrise times for a given latitude and longitude ",
@@ -3350,13 +3806,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "Trefle",
                 "link": "https://trefle.io/",
                 "description": " Botanical data for plant species ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "USGSEarthquakeHazardsProgram",
                 "link": "https://earthquake.usgs.gov/fdsnws/event/1/",
                 "description": " Earthquakes data real-time ",
@@ -3364,6 +3822,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "USGSWaterServices",
                 "link": "https://waterservices.usgs.gov/",
                 "description": " Water quality and level info for rivers and lakes ",
@@ -3371,6 +3830,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Science & Math",
                 "name": "WorldBank",
                 "link": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589",
                 "description": " World Data ",
@@ -3383,20 +3843,23 @@
         "name": " Security",
         "content": [
             {
+                "type": " Security",
                 "name": "Censys.io",
                 "link": "https://censys.io/api",
                 "description": " Search engine for Internet connected host and devices ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Security",
                 "name": "CRXcavator",
                 "link": "https://crxcavator.io/apidocs",
                 "description": " Chrome extension risk scoring ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Security",
                 "name": "FilterLists",
                 "link": "https://filterlists.com",
                 "description": " Lists of filters for adblockers and firewalls ",
@@ -3404,27 +3867,31 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Security",
                 "name": "FraudLabsPro",
                 "link": "https://www.fraudlabspro.com/developer/api/screen-order",
                 "description": " Screen order information using AI to detect frauds ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Security",
                 "name": "HaveIBeenPwned",
                 "link": "https://haveibeenpwned.com/API/v3",
                 "description": " Passwords which have previously been exposed in data breaches ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Security",
                 "name": "IntelligenceX",
                 "link": "https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf",
                 "description": " Perform OSINT via Intelligence X ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Security",
                 "name": "NationalVulnerabilityDatabase",
                 "link": "https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog",
                 "description": " U.S. National Vulnerability Database ",
@@ -3432,27 +3899,31 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Security",
                 "name": "Pulsedive",
                 "link": "https://pulsedive.com/api/",
                 "description": " Scan, search and collect threat intelligence data in real-time ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Security",
                 "name": "SecurityTrails",
                 "link": "https://securitytrails.com/corp/apidocs",
                 "description": " Domain and IP related information such as current and historical WHOIS and DNS records ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Security",
                 "name": "Shodan",
                 "link": "https://developer.shodan.io/",
                 "description": " Search engine for Internet connected devices ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Security",
                 "name": "UKPolice",
                 "link": "https://data.police.uk/docs/",
                 "description": " UK Police data ",
@@ -3465,38 +3936,43 @@
         "name": " Shopping",
         "content": [
             {
+                "type": " Shopping",
                 "name": "BestBuy",
                 "link": "https://bestbuyapis.github.io/api-documentation/#overview",
                 "description": " Products, Buying Options, Categories, Recommendations, Stores and Commerce ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Shopping",
                 "name": "Bratabase",
                 "link": "https://developers.bratabase.com/",
                 "description": " Database of different types of Bra Sizes ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Shopping",
                 "name": "eBay",
                 "link": "https://go.developer.ebay.com/",
                 "description": " Sell and Buy on eBay ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Shopping",
                 "name": "Wal-Mart",
                 "link": "https://developer.walmartlabs.com/docs",
                 "description": " Item price and availability ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Shopping",
                 "name": "Wegmans",
                 "link": "https://dev.wegmans.io",
                 "description": " Wegmans Food Markets ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -3505,55 +3981,63 @@
         "name": " Social",
         "content": [
             {
+                "type": " Social",
                 "name": "Buffer",
                 "link": "https://buffer.com/developers/api",
                 "description": " Access to pending and sent updates in Buffer ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "CarroScore",
                 "link": "https://docs.score.getcarro.com/",
                 "description": " Social Media Influence Rating ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "CiscoSpark",
                 "link": "https://developer.ciscospark.com",
                 "description": " Team Collaboration Software ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "Discord",
                 "link": "https://discordapp.com/developers/docs/intro",
                 "description": " Make bots for Discord, integrate Discord onto an external platform ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "Disqus",
                 "link": "https://disqus.com/api/docs/auth/",
                 "description": " Communicate with Disqus data ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "Facebook",
                 "link": "https://developers.facebook.com/",
                 "description": " Facebook Login, Share on FB, Social Plugins, Analytics and more ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "Foursquare",
                 "link": "https://developer.foursquare.com/",
                 "description": " Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "FuckOffasaService",
                 "link": "https://www.foaas.com",
                 "description": " Asks someone to fuck off ",
@@ -3561,13 +4045,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "FullContact",
                 "link": "https://www.fullcontact.com/developer/docs/",
                 "description": " Get Social Media profiles and contact Information ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "HackerNews",
                 "link": "https://github.com/HackerNews/API",
                 "description": " Social news for CS and entrepreneurship ",
@@ -3575,34 +4061,39 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "Instagram",
                 "link": "https://www.instagram.com/developer/",
                 "description": " Instagram Login, Share on Instagram, Social Plugins and more ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "LinkedIn",
                 "link": "https://developer.linkedin.com/docs/rest-api",
                 "description": " The foundation of all digital integrations with LinkedIn ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "Meetup.com",
                 "link": "https://www.meetup.com/meetup_api/",
                 "description": " Data about Meetups from Meetup.com ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "MySocialApp",
                 "link": "https://mysocialapp.io",
                 "description": " Seamless Social Networking features, API, SDK to any app ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "OpenCollective",
                 "link": "https://docs.opencollective.com/help/developers/api",
                 "description": " Get Open Collective data ",
@@ -3610,73 +4101,83 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "Pinterest",
                 "link": "https://developers.pinterest.com/",
                 "description": " The world's catalog of ideas ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "Reddit",
                 "link": "https://www.reddit.com/dev/api",
                 "description": " Homepage of the internet ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "Saidit",
                 "link": "https://www.saidit.net/dev/api",
                 "description": " Open Source Reddit Clone ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "Slack",
                 "link": "https://api.slack.com/",
                 "description": " Team Instant Messaging ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "TelegramBot",
                 "link": "https://core.telegram.org/bots/api",
                 "description": " Simplified HTTP version of the MTProto API for bots ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "TelegramMTProto",
                 "link": "https://core.telegram.org/api#getting-started",
                 "description": " Read and write Telegram data ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "TrashNothing",
                 "link": "https://trashnothing.com/developer",
                 "description": " A freecycling community with thousands of free items posted every day ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "Tumblr",
                 "link": "https://www.tumblr.com/docs/en/api/v2",
                 "description": " Read and write Tumblr Data ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "Twitter",
                 "link": "https://developer.twitter.com/en/docs",
                 "description": " Read and write Twitter data ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Social",
                 "name": "vk",
                 "link": "https://vk.com/dev/sites",
                 "description": " Read and write vk data ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             }
         ]
@@ -3685,6 +4186,7 @@
         "name": " Sports & Fitness",
         "content": [
             {
+                "type": " Sports & Fitness",
                 "name": "balldontlie",
                 "link": "https://balldontlie.io",
                 "description": " Ballldontlie provides access to stats data from the NBA ",
@@ -3692,6 +4194,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "BikeWise",
                 "link": "https://www.bikewise.org/documentation/api_v2",
                 "description": " Bikewise is a place to learn about and report bike crashes, hazards and thefts ",
@@ -3699,13 +4202,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "CanadianFootballLeague(CFL)",
                 "link": "http://api.cfl.ca/",
                 "description": " Official JSON API providing real-time league, team and player statistics about the CFL ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "CityBikes",
                 "link": "http://api.citybik.es/v2/",
                 "description": " City Bikes around the world ",
@@ -3713,6 +4218,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "ErgastF1",
                 "link": "http://ergast.com/mrd/",
                 "description": " F1 data from the beginning of the world championships in 1950 ",
@@ -3720,13 +4226,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "Fitbit",
                 "link": "https://dev.fitbit.com/",
                 "description": " Fitbit Information ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "Football(Soccer)Videos",
                 "link": "https://www.scorebat.com/video-api/",
                 "description": " Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more ",
@@ -3734,13 +4242,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "FootballPrediction",
                 "link": "https://boggio-analytics.com/fp-api/",
                 "description": " Predictions for upcoming football matches, odds, results and stats ",
-                "Auth": "X-Mashape-Key",
+                "Auth": "`X-Mashape-Key`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "Football-Data.org",
                 "link": "http://api.football-data.org/index",
                 "description": " Football Data ",
@@ -3748,13 +4258,15 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "JCDecauxBike",
                 "link": "https://developer.jcdecaux.com/",
                 "description": " JCDecaux's self-service bicycles ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "NBAStats",
                 "link": "https://any-api.com/nba_com/nba_com/docs/API_Description",
                 "description": " Current and historical NBA Statistics ",
@@ -3762,6 +4274,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "NHLRecordsandStats",
                 "link": "https://gitlab.com/dword4/nhlapi",
                 "description": " NHL historical data and statistics ",
@@ -3769,13 +4282,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "Strava",
                 "link": "https://strava.github.io/api/",
                 "description": " Connect with athletes, activities and more ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "SuredBits",
                 "link": "https://suredbits.com/api/",
                 "description": " Query sports data, including teams, players, games, scores and statistics ",
@@ -3783,17 +4298,19 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "TheSportsDB",
                 "link": "https://www.thesportsdb.com/api.php",
                 "description": " Crowd-Sourced Sports Data and Artwork ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Sports & Fitness",
                 "name": "Wger",
                 "link": "https://wger.de/en/software/api",
                 "description": " Workout manager data as exercises, muscles or equipment ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -3802,6 +4319,7 @@
         "name": " Test Data",
         "content": [
             {
+                "type": " Test Data",
                 "name": "BaconIpsum",
                 "link": "https://baconipsum.com/json-api/",
                 "description": " A Meatier Lorem Ipsum Generator ",
@@ -3809,6 +4327,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Test Data",
                 "name": "DicebearAvatars",
                 "link": "https://avatars.dicebear.com/",
                 "description": " Generate random pixel-art avatars ",
@@ -3816,13 +4335,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Test Data",
                 "name": "FakeJSON",
                 "link": "https://fakejson.com",
                 "description": " Service to generate test and fake data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Test Data",
                 "name": "JSONPlaceholder",
                 "link": "http://jsonplaceholder.typicode.com/",
                 "description": " Fake data for testing and prototyping ",
@@ -3830,6 +4351,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Test Data",
                 "name": "Loripsum",
                 "link": "http://loripsum.net/",
                 "description": " The \"lorem ipsum\" generator that doesn't suck ",
@@ -3837,6 +4359,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Test Data",
                 "name": "PIPL",
                 "link": "https://pipl.ir/",
                 "description": " Free and public API that generates random and fake people's data in JSON ",
@@ -3844,6 +4367,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Test Data",
                 "name": "RandomUser",
                 "link": "https://randomuser.me",
                 "description": " Generates random user data ",
@@ -3851,6 +4375,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Test Data",
                 "name": "RoboHash",
                 "link": "https://robohash.org/",
                 "description": " Generate random robot/alien avatars ",
@@ -3858,6 +4383,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Test Data",
                 "name": "ThisPersonDoesnotExist",
                 "link": "https://thispersondoesnotexist.com",
                 "description": " Generates real-life faces of people who do not exist ",
@@ -3865,6 +4391,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Test Data",
                 "name": "UINames",
                 "link": "https://github.com/thm/uinames",
                 "description": " Generate random fake names ",
@@ -3872,6 +4399,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Test Data",
                 "name": "YesNo",
                 "link": "https://yesno.wtf/api",
                 "description": " Generate yes or no randomly ",
@@ -3884,45 +4412,51 @@
         "name": " Text Analysis",
         "content": [
             {
+                "type": " Text Analysis",
                 "name": "AylienTextAnalysis",
                 "link": "http://docs.aylien.com/",
                 "description": " A collection of information retrieval and natural language APIs ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Text Analysis",
                 "name": "CloudmersiveNaturalLanguageProcessing",
                 "link": "https://www.cloudmersive.com/nlp-api",
                 "description": " Natural language processing and text analysis ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Text Analysis",
                 "name": "DetectLanguage",
                 "link": "https://detectlanguage.com/",
                 "description": " Detects text language ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Text Analysis",
                 "name": "GoogleCloudNatural",
                 "link": "https://cloud.google.com/natural-language/docs/",
                 "description": " Natural language understanding technology, including sentiment, entity and syntax analysis ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Text Analysis",
                 "name": "Semantira",
                 "link": "https://semantria.readme.io/docs",
                 "description": " Text Analytics with sentiment analysis, categorization & named entity extraction ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Text Analysis",
                 "name": "WatsonNaturalLanguageUnderstanding",
                 "link": "https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding",
                 "description": " Natural language processing for advanced text analysis ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             }
         ]
@@ -3931,6 +4465,7 @@
         "name": " Tracking",
         "content": [
             {
+                "type": " Tracking",
                 "name": "Postmon",
                 "link": "http://postmon.com.br",
                 "description": " An API to query Brazilian ZIP codes and orders easily, quickly and free ",
@@ -3938,20 +4473,23 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Tracking",
                 "name": "Sweden",
                 "link": "https://developer.postnord.com/docs2",
                 "description": " Provides information about parcels in transport ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Tracking",
                 "name": "UPS",
                 "link": "https://www.ups.com/upsdeveloperkit",
                 "description": " Shipment and Address information ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Tracking",
                 "name": "WhatPulse",
                 "link": "https://whatpulse.org/pages/webapi/",
                 "description": " Small application that measures your keyboard/mouse usage ",
@@ -3964,6 +4502,7 @@
         "name": " Transportation",
         "content": [
             {
+                "type": " Transportation",
                 "name": "ADS-BExchange",
                 "link": "https://www.adsbexchange.com/data/",
                 "description": " Access real-time and historical data of any and all airborne aircraft ",
@@ -3971,41 +4510,47 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "AISHub",
                 "link": "http://www.aishub.net/api",
                 "description": " Real-time data of any marine and inland vessel equipped with AIS tracking system ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Transportation",
                 "name": "AmadeusTravelInnovationSandbox",
                 "link": "https://sandbox.amadeus.com/",
                 "description": " Travel Search - Limited usage ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "BayAreaRapidTransit",
                 "link": "http://api.bart.gov",
                 "description": " Stations and predicted arrivals for BART ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Transportation",
                 "name": "BlaBlaCar",
                 "link": "https://dev.blablacar.com",
                 "description": " Search car sharing trips ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "GraphHopper",
                 "link": "https://graphhopper.com/api/1/docs/",
                 "description": " A-to-B routing with turn-by-turn instructions ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "IcelandicAPIs",
                 "link": "http://docs.apis.is/",
                 "description": " Open APIs that deliver services in or regarding Iceland ",
@@ -4013,13 +4558,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "Izi",
                 "link": "http://api-docs.izi.travel/",
                 "description": " Audio guide for travellers ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "MetroLisboa",
                 "link": "http://app.metrolisboa.pt/status/getLinhas.php",
                 "description": " Delays in subway lines ",
@@ -4027,13 +4574,15 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Transportation",
                 "name": "Navitia",
                 "link": "https://api.navitia.io/",
                 "description": " The open API for building cool stuff with transport data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "OpenChargeMap",
                 "link": "https://openchargemap.org/site/develop/api",
                 "description": " Global public registry of electric vehicle charging locations ",
@@ -4041,6 +4590,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "REFUGERestrooms",
                 "link": "https://www.refugerestrooms.org/api/docs/#!/restrooms",
                 "description": " Provides safe restroom access for transgender, intersex and gender nonconforming individuals ",
@@ -4048,13 +4598,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "SchipholAirport",
                 "link": "https://developer.schiphol.nl/",
                 "description": " Schiphol ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "TransitLand",
                 "link": "https://transit.land/documentation/datastore/api-endpoints.html",
                 "description": " Transit Aggregation ",
@@ -4062,6 +4614,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforAtlanta,US",
                 "link": "http://www.itsmarta.com/app-developer-resources.aspx",
                 "description": " Marta ",
@@ -4069,6 +4622,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforAuckland,NewZealand",
                 "link": "https://api.at.govt.nz/",
                 "description": " Auckland Transport ",
@@ -4076,13 +4630,15 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforBordeaux,France",
                 "link": "https://opendata.bordeaux-metropole.fr/explore/",
                 "description": " Bordeaux M\u00c3\u00a9tropole public transport and more (France) ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforChicago,US",
                 "link": "http://www.transitchicago.com/developers/",
                 "description": " CTA ",
@@ -4090,6 +4646,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforDenver,US",
                 "link": "http://www.rtd-denver.com/gtfs-developer-guide.shtml",
                 "description": " RTD ",
@@ -4097,6 +4654,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforGrenoble,France",
                 "link": "https://www.metromobilite.fr/pages/opendata/OpenDataApi.html",
                 "description": " Grenoble public transport ",
@@ -4104,27 +4662,31 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforHonolulu,US",
                 "link": "http://hea.thebus.org/api_info.asp",
                 "description": " Honolulu Transportation Information ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforLisbon,Portugal",
                 "link": "https://emel.city-platform.com/opendata/",
                 "description": " Data about buses routes, parking and traffic ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforManchester,England",
                 "link": "https://developer.tfgm.com/",
                 "description": " TfGM transport network data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforParis,France",
                 "link": "http://restratpws.azurewebsites.net/swagger/",
                 "description": " Live schedules made simple ",
@@ -4132,6 +4694,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforPhiladelphia,US",
                 "link": "http://www3.septa.org/hackathon/",
                 "description": " SEPTA APIs ",
@@ -4139,34 +4702,39 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforSaoPaulo,Brazil",
                 "link": "http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/",
                 "description": " SPTrans ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "No"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforSweden",
                 "link": "https://www.trafiklab.se/api",
                 "description": " Public Transport consumer ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforSwitzerland",
                 "link": "https://opentransportdata.swiss/en/",
                 "description": " Official Swiss Public Transport Open Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforTheNetherlands",
                 "link": "http://www.ns.nl/reisinformatie/ns-api",
                 "description": " NS, only trains ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "No"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforTheNetherlands",
                 "link": "https://github.com/skywave/KV78Turbo-OVAPI/wiki",
                 "description": " OVAPI, country-wide public transport ",
@@ -4174,6 +4742,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforToronto,Canada",
                 "link": "https://myttc.ca/developers",
                 "description": " TTC ",
@@ -4181,24 +4750,27 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "TransportforVancouver,Canada",
                 "link": "https://developer.translink.ca/",
                 "description": " TransLink ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "Uber",
                 "link": "https://developer.uber.com/products",
                 "description": " Uber ride requests and price estimation ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Transportation",
                 "name": "WhereIsMyTransport",
                 "link": "https://developer.whereismytransport.com/",
                 "description": " Platform for public transport data in emerging cities ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             }
         ]
@@ -4207,31 +4779,35 @@
         "name": " URL Shorteners",
         "content": [
             {
+                "type": " URL Shorteners",
                 "name": "Bitly",
                 "link": "http://dev.bitly.com/get_started.html",
                 "description": " URL shortener and link management ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " URL Shorteners",
                 "name": "CleanURI",
                 "link": "https://cleanuri.com/docs",
                 "description": " URL shortener service ",
-                "Auth": "No",
+                "Auth": "`No`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " URL Shorteners",
                 "name": "ClickMeter",
                 "link": "https://support.clickmeter.com/hc/en-us/categories/201474986",
                 "description": " Monitor, compare and optimize your marketing links ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " URL Shorteners",
                 "name": "Rebrandly",
                 "link": "https://developers.rebrandly.com/v1/docs",
                 "description": " Custom URL shortener for sharing branded links ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             }
         ]
@@ -4240,6 +4816,7 @@
         "name": " Vehicle",
         "content": [
             {
+                "type": " Vehicle",
                 "name": "BrazilianVehiclesandPrices",
                 "link": "https://deividfortuna.github.io/fipe/",
                 "description": " Vehicles information from Funda\u00c3\u00a7\u00c3\u00a3o Instituto de Pesquisas Econ\u00c3\u00b4micas - Fipe ",
@@ -4247,20 +4824,23 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Vehicle",
                 "name": "KelleyBlueBook",
                 "link": "http://developer.kbb.com/#!/data/1-Default",
                 "description": " Vehicle info, pricing, configuration, plus much more ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Vehicle",
                 "name": "Mercedes-Benz",
                 "link": "https://developer.mercedes-benz.com/apis",
                 "description": " Telematics data, remotely access vehicle functions, car configurator, locate service dealers ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Vehicle",
                 "name": "NHTSA",
                 "link": "https://vpic.nhtsa.dot.gov/api/",
                 "description": " NHTSA Product Information Catalog and Vehicle Listing ",
@@ -4268,10 +4848,11 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Vehicle",
                 "name": "Smartcar",
                 "link": "https://smartcar.com/docs/",
                 "description": " Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             }
         ]
@@ -4280,6 +4861,7 @@
         "name": " Video",
         "content": [
             {
+                "type": " Video",
                 "name": "BreakingBadQuotes",
                 "link": "https://github.com/shevabam/breaking-bad-quotes",
                 "description": " Some Breaking Bad quotes ",
@@ -4287,6 +4869,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Video",
                 "name": "CzechTelevision",
                 "link": "http://www.ceskatelevize.cz/xml/tv-program/",
                 "description": " TV programme of Czech TV ",
@@ -4294,13 +4877,15 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Video",
                 "name": "OpenMovieDatabase",
                 "link": "http://www.omdbapi.com/",
                 "description": " Movie information ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Video",
                 "name": "RonSwansonQuotes",
                 "link": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api",
                 "description": " Television ",
@@ -4308,6 +4893,7 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Video",
                 "name": "STAPI",
                 "link": "http://stapi.co",
                 "description": " Information on all things Star Trek ",
@@ -4315,6 +4901,7 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Video",
                 "name": "SWAPI",
                 "link": "https://www.swapi.tech",
                 "description": " All things Star Wars ",
@@ -4322,27 +4909,31 @@
                 "HTTPS": "Yes"
             },
             {
+                "type": " Video",
                 "name": "TMDb",
                 "link": "https://www.themoviedb.org/documentation/api",
                 "description": " Community-based movie data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Video",
                 "name": "Trakt",
                 "link": "https://trakt.tv/b/api-docs",
                 "description": " Movie and TV Data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Video",
                 "name": "TVDB",
                 "link": "https://api.thetvdb.com/swagger",
                 "description": " Television data ",
-                "Auth": "ApiKey",
+                "Auth": "`apiKey`",
                 "HTTPS": "Yes"
             },
             {
+                "type": " Video",
                 "name": "TVMaze",
                 "link": "http://www.tvmaze.com/api",
                 "description": " TV Show Data ",
@@ -4350,10 +4941,11 @@
                 "HTTPS": "No"
             },
             {
+                "type": " Video",
                 "name": "YouTube",
                 "link": "https://developers.google.com/youtube/",
                 "description": " Add YouTube functionality to your sites and apps ",
-                "Auth": "OAuth",
+                "Auth": "`OAuth`",
                 "HTTPS": "Yes"
             }
         ]

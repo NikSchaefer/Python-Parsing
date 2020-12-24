@@ -31,6 +31,7 @@ def to_categories(array):
             name_split = split[1].split("]")
             link = name_split[1].replace("(", "")
             to_add = {
+                "type": purge(names[len(names) - 1]),
                 "name": purge(name_split[0].replace("[", "")),
                 "link": purge(link.replace(")", "")),
                 "description": split[2],
