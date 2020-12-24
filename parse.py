@@ -15,30 +15,36 @@ def delete_lines(lines):  # returns array of lines with not essential lines remo
 
 def to_categories(array):
     out = []
-    content = []
+    # content = []
     names = []
+    num = 1
     for i in range(len(array)):
         if "###" in array[i]:
             names.append(array[i].replace("#", ""))
-            to_return = {
-                "name": names[len(names) - 2],
-                "content": content
-            }
-            out.append(to_return)
-            content = []
+            # to_return = {
+            #     "name": names[len(names) - 2],
+            #     "content": content
+            # }
+            # out.append(to_return)
+            # content = []
         else:
             split = array[i].split('|')
             name_split = split[1].split("]")
             link = name_split[1].replace("(", "")
             to_add = {
-                "type": purge(names[len(names) - 1]),
-                "name": purge(name_split[0].replace("[", "")),
-                "link": purge(link.replace(")", "")),
-                "description": split[2],
-                "Auth": purge(split[3]),
-                'HTTPS': purge(split[4]),
+                "model": "backend.api",
+                "pk": num,
+                "fields": {
+                    "type": purge(names[len(names) - 1]),
+                    "name": purge(name_split[0].replace("[", "")),
+                    "link": purge(link.replace(")", "")),
+                    "description": split[2],
+                    "Auth": purge(split[3]),
+                    'HTTPS': purge(split[4]),
+                }
             }
-            content.append(to_add)
+            num += 1
+            out.append(to_add)
     return out[1:]
 
 
